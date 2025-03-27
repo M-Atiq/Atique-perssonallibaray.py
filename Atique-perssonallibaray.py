@@ -1,5 +1,5 @@
 # Atique-perssonallibaray.py
-this is a libaray management sys
+
 import streamlit as st
 import pandas as pd
 
